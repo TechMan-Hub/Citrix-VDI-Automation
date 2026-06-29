@@ -47,4 +47,3 @@ See `/scripts` folder
 
 ## 🔹 Documentation
 See `/docs/project-overview.md`
-``
