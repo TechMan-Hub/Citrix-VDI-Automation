@@ -1,7 +1,7 @@
 # Citrix VDI Automation
 
 ## 🔹 Overview
-🚀 Automated lifecycle management for 350+ Citrix VDI desktops using PowerShell and Task Scheduler.
+Automated lifecycle management for 350+ Citrix VDI desktops using PowerShell and Task Scheduler.
 
 The solution powers on desktops for weekend maintenance and shuts them down afterward with no manual intervention.
 
@@ -9,11 +9,11 @@ The solution powers on desktops for weekend maintenance and shuts them down afte
 
 ## 🔹 What It Does
 
-### ✅ Sunday Morning
+### Sunday Morning
 - Powers on all machines
 - Places unassigned desktops into maintenance mode
 
-### ✅ Sunday Night
+### Sunday Night
 - Removes maintenance mode
 - Powers off all machines
 
