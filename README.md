@@ -55,15 +55,6 @@ The solution powers on desktops for weekend maintenance and shuts them down afte
 
 ---
 
-## 🔹 What I Built
-I created a PowerShell-based automation solution that powers on Citrix virtual desktops before weekly security scanning and powers them back off once maintenance is complete.
-
-The solution handles assigned and unassigned desktops differently, uses maintenance mode to prevent unwanted power actions, includes retry logic for reliability, and generates logs that help identify any machines that were missed during execution.
-
-The final solution was successfully deployed in production and is now being used to reduce manual weekend support work.
-
----
-
 ## 🔹 Scripts
 See `/scripts` folder
 
